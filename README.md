@@ -4,7 +4,7 @@
 
 ## Installation
 
-To run the code, OPENGL3.3 needs to be in installed.
+To run the code, OPENGL3.3 needs to be installed.
 
 
 
